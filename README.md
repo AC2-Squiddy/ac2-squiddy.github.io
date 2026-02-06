@@ -1,2 +1,1 @@
-# ac2-squiddy.github.io
-testing
+# This is just a placeholder for now... see you soon!
